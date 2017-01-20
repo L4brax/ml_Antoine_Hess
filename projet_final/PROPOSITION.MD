@@ -1,7 +1,7 @@
 # Proposition de projet
 
 Mon projet s'appuie sur un projet déjà existant. Il s'agit d'un projet portant sur un dataset provenant du Modified National Institute of Standards and Technology (MNIST).
-Les données sont récupérée depuis le site Kaggle, proposant une compétition sous la forme d'un tutoriel sur les différents algorithmes utilisés aujourd'hui en ML.
+Les données sont récupérées depuis le site Kaggle, proposant une compétition sous la forme d'un tutoriel sur les différents algorithmes utilisés aujourd'hui en ML.
 
 Le but de ce projet est d'analyser un ensemble d'image représentant des chiffres écrits à la main et de déterminer ces chiffres.
 Le dataset comprend 28 000 images en dégradé de noir sous forme de csv. (La valeur du dégradé de chaque pixel est représenté dans une colonne,
