@@ -18,7 +18,7 @@ Au vu des informations trouvées sur des forums et le site Kaggle, on pourra met
 * Random Forest
 * k Near Neighbors (kNN)
 
-Le but sera de comprendre comment fonctionne ces algorithmes, comment les mettre en pratique avec Python et ainsi de pouvoir les expliquer lors de la soutenance.
+Le but sera de comprendre comment fonctionnent ces algorithmes, comment les mettre en pratique avec Python et ainsi de pouvoir les expliquer lors de la soutenance.
 
 D'autres algorithmes sont évidemment utilisés dans les différents projets que l'on peut trouver :
 * k Mean, pour réduire la taille des données
