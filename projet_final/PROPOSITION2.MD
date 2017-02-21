@@ -15,9 +15,10 @@ Ce projet permettra de comprendre les différentes techniques d'analyse de senti
 
 # 20 Février : Mise à jour sur le dataset.
 
-L'obtention d'un dataset concernant les reviews de TripAdvisor est compliquée. L'API ne permet pas d'obtenir directement les avis des utilisateurs. En recherchant sur internet, on peut trouver rapidement deux datasets de review provenant de tripAvisor de taille conséquente (environ 250 000 reviews). L'un d'entre eux comprend seulement les review, sans la note. il est donc peu utile pour mon cas. L'autre dataset comprend les notes des utilisateurs avec leurs reviews. Il est potentiellement utilisable.
+L'obtention d'un dataset concernant les reviews de TripAdvisor est compliquée. L'API ne permet pas d'obtenir directement les avis des utilisateurs. En recherchant sur internet, on peut trouver rapidement deux datasets de reviews provenant de tripAvisor de taille conséquente (environ 250 000 reviews). L'un d'entre eux comprend seulement les reviews, sans la note. il est donc peu utile pour mon cas. L'autre dataset comprend les notes des utilisateurs avec leurs reviews. Il est potentiellement utilisable.
 
-Après ces recherches, j'ai pu obtenir un dataset non traité provenant d'Amazon d'une taille de près de 900 000 reviews.
+Désirant un dataset non préalablement traité, j'ai pu obtenir un dataset non traité provenant d'Amazon d'une taille de près de 900 000 reviews.
+
 Les données sont les reviews de la rubrique des livres.
 Ce dataset est composé des données suivantes :
  - UniqueId (composé de l'asin et du product_name)
@@ -40,7 +41,7 @@ Malgré le fait que ce dataset ne concerne pas la cible de mon idée première ;
 
 * Status 2 - **vendredi 10 février** : Mise à jour des données. Recherche sur le dataset. 
 
-* Status 3 - **lundi 20 février** : Choix du nouveau dataset (voir mise à jour plus haut). Avant d'avoir trouvé sur quelles données me baser, j'ai pu avancer sur plusieurs méthodes de prédiction avec d'autres datasets. J'ai pu commencé à utiliser le nouveau dataset choisi.
+* Status 3 - **lundi 20 février** : Choix du nouveau dataset (voir mise à jour plus haut). Avant d'avoir trouvé sur quelles données me baser, j'ai pu avancer sur plusieurs méthodes de prédiction avec d'autres datasets. J'ai pu commencer à utiliser le nouveau dataset choisi. Je vais ajouter rapidement l'avancement avec mon dataset et mettre à jour mes objectifs pour les prochaines semaines.
 
 * Status 4 - **Mercredi 1 mars** : En cours.
 
